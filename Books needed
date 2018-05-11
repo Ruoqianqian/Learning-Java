@@ -1,32 +1,42 @@
-计算机基础部分：                  
-《算法》
-《大话数据结构》
-《图解HTTP》
-《图解TCP/IP》
-《现代操作系统》
-《深入理解计算机系统》
-《GitHub入门与实践》
-《鸟哥LINUX私房菜》
-《Mysql必知必会》
-计算机网络
-Linux shell脚本
+计算机基础部分：
+  网络知识：
+    《计算机网络自顶向下方法》
+    《图解HTTP》
+    《图解TCP/IP》
+    《TCP/IP详解：卷一 协议》
+  数据结构：
+    《大话数据结构》
+  数据库：
+    《Mysql必知必会》
+    《高性能Mysql》
+     MYSQL和其他数据库
+  操作系统
+    《现代操作系统》
+  Linux：
+    《鸟哥LINUX私房菜》
+     Linux shell脚本
+  算法：
+    《算法》
+    《算法导论》
+  其他：  
+    《深入理解计算机系统》
+    《GitHub入门与实践》
 
 
 JAVA基础技术（web）：
-《Head First JAVA》
-《JAVA核心技术》
-《JAVA编程思想》
-《Head First Servlet&Jsp》
-MYSQL和其他数据库
-《Spring技术内幕》
-其他框架
+  《Head First JAVA》
+  《JAVA核心技术》
+  《JAVA编程思想》
+  《Head First Servlet&Jsp》
+  《Spring技术内幕》
+  其他框架
 
 
 JAVA进阶：
-《JVA并发编程实战》
-《深入理解JVM虚拟机》
-《JAVA设计模式》
-《JAVA网络编程》
-《TCP/IP详解：卷一 协议》
-集群和分布式
+  《JVA并发编程实战》
+  《深入理解JVM虚拟机》
+  《JAVA设计模式》
+  《JAVA网络编程》
+  集群和分布式
+  NIO、
 
